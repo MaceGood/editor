@@ -6,9 +6,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.4.1",
+    "@heroicons/react": "^1.0.4",
+    "@material-tailwind/react": "0.3.4",
+    "draft-js": "^0.11.7",
+    "firebase": "^9.0.2",
     "next": "latest",
+    "next-auth": "^3.29.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-draft-wysiwyg": "^1.14.7",
+    "react-firebase-hooks": "^3.0.4",
+    "react-redux": "^7.2.5",
+    "redux": "^4.1.1",
+    "redux-devtools-extension": "^2.13.9",
+    "redux-thunk": "^2.3.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
