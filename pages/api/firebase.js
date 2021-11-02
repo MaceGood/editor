@@ -7,13 +7,13 @@ import {
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyD2zm9MHxU0IvJYk3bz1-ci8VddRtFV1o0",
-  authDomain: "txm-editor.firebaseapp.com",
-  projectId: "txm-editor",
-  storageBucket: "txm-editor.appspot.com",
-  messagingSenderId: "926720854088",
-  appId: "1:926720854088:web:e0ade77c976a78f8d5307d",
-  measurementId: "G-CV3SWWFY2Q",
+  apiKey: "AIzaSyCCvI5ajQPRdg6MARNbm37_GqwKR6j90Cg",
+  authDomain: "txm-editor-96447.firebaseapp.com",
+  projectId: "txm-editor-96447",
+  storageBucket: "txm-editor-96447.appspot.com",
+  messagingSenderId: "80416896752",
+  appId: "1:80416896752:web:85d20da454f97c226e7435",
+  measurementId: "G-P8D9ZJZFTK"
 };
 
 const app = initializeApp(firebaseConfig);
